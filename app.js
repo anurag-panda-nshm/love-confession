@@ -1,5 +1,5 @@
 // API endpoint
-const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:5000/api' : 'https://your-app-name.onrender.com/api';
+const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:5000/api' : 'https://love-confession.onrender.com/api';
 
 // Constants
 const CONFESSIONS_PER_PAGE = 5;
